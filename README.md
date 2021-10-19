@@ -1,2 +1,2 @@
 # config-repo
-Configuration repository
+Repositorio de configuraciones para el ambiente.
